@@ -1,0 +1,242 @@
+/* Resetare stiluri implicite */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Stil pentru întreg corpul paginii */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    background: linear-gradient(to right, #3c096c, #5a189a);
+    color: #ffffff;
+    padding: 30px 20px;
+    text-align: center;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+}
+
+header h1 {
+    font-size: 2.8rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+    color: #d1b3ff;
+}
+
+/* Secțiunea „Cine sunt eu?” */
+#WhoAmI {
+    background-color: #1e1e2f;
+    padding: 25px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+#WhoAmI h3 {
+    font-size: 1.8rem;
+    color: #9d4edd;
+    margin-bottom: 15px;
+}
+
+#WhoAmI ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+#WhoAmI li {
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+    color: #ccc;
+}
+
+/* realizations */
+
+#realizations {
+    background-color: #1e1e2f;
+    padding: 25px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+#realizations h3 {
+    font-size: 1.8rem;
+    color: #9d4edd;
+    margin-bottom: 15px;
+}
+
+#realizations ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+#realizations li {
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+    color: #ccc;
+}
+
+/* realizariClasaA5A */
+
+#realizariClasaA5A {
+    background-color: #1e1e2f;
+    padding: 25px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+#realizariClasaA5A h3 {
+    font-size: 1.8rem;
+    color: #9d4edd;
+    margin-bottom: 15px;
+}
+
+#realizariClasaA5A ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+#realizariClasaA5A li {
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+    color: #ccc;
+}
+
+/* realizariClasaA4A */
+
+#realizariClasaA4A {
+    background-color: #1e1e2f;
+    padding: 25px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+#realizariClasaA4A h3 {
+    font-size: 1.8rem;
+    color: #9d4edd;
+    margin-bottom: 15px;
+}
+
+#realizariClasaA4A ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+#realizariClasaA4A li {
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+    color: #ccc;
+}
+
+/* realizariClasaA6A */
+
+#realizariClasaA6A {
+    background-color: #1e1e2f;
+    padding: 25px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+#realizariClasaA6A h3 {
+    font-size: 1.8rem;
+    color: #9d4edd;
+    margin-bottom: 15px;
+}
+
+#realizariClasaA6A ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+#realizariClasaA6A li {
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+    color: #ccc;
+}
+
+/* realizariClasaA7A */
+
+#realizariClasaA7A {
+    background-color: #1e1e2f;
+    padding: 25px;
+    border-radius: 12px;
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+#realizariClasaA7A h3 {
+    font-size: 1.8rem;
+    color: #9d4edd;
+    margin-bottom: 15px;
+}
+
+#realizariClasaA7A ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+#realizariClasaA7A li {
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+    color: #ccc;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #2a2a3c;
+    border-top: 1px solid #444;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    color: #aaa;
+}
+
+a {
+    color: #c77dff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #e0aaff;
+}
+
+.red-strike {
+    position: relative;
+    color: inherit;
+    /* Keep normal text color */
+}
+
+.red-strike::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    height: 2px;
+    background-color: red;
+    /* The red line */
+    transform: translateY(-50%);
+}
